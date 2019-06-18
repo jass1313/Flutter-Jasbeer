@@ -1,0 +1,4 @@
+#Wed Jun 12 17:34:59 IST 2019
+base.0=/Users/drillmaps/Documents/GitHub/Flutter-Jasbeer/i_am_poor_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

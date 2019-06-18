@@ -1,0 +1,4 @@
+#Thu Jun 13 12:30:16 IST 2019
+base.0=/Users/drillmaps/Documents/GitHub/Flutter-Jasbeer/mi_card_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

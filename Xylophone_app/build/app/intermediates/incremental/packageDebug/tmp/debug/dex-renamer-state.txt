@@ -1,0 +1,4 @@
+#Fri Jun 14 13:54:33 IST 2019
+base.0=/Users/drillmaps/Desktop/Flutter-Jasbeer/Xylophone_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
