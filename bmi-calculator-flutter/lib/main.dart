@@ -1,4 +1,8 @@
 import 'package:flutter/material.dart';
+<<<<<<< HEAD
+import 'package:bmi_calculator/screens/input_page.dart';
+=======
+>>>>>>> 11209d551c27ac28b0edd783a238900dabcbe0d4
 
 void main() => runApp(BMICalculator());
 
@@ -6,10 +10,19 @@ class BMICalculator extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+<<<<<<< HEAD
+      theme: ThemeData.dark().copyWith(
+        primaryColor: Color(0xFF0A0E21),
+        scaffoldBackgroundColor: Color(0xFF0A0E21),
+      ),
+=======
+>>>>>>> 11209d551c27ac28b0edd783a238900dabcbe0d4
       home: InputPage(),
     );
   }
 }
+<<<<<<< HEAD
+=======
 
 class InputPage extends StatefulWidget {
   @override
@@ -32,3 +45,4 @@ class _InputPageState extends State<InputPage> {
     );
   }
 }
+>>>>>>> 11209d551c27ac28b0edd783a238900dabcbe0d4

@@ -46,6 +46,16 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+<<<<<<< HEAD
+  font_awesome_flutter:
+    dependency: "direct main"
+    description:
+      name: font_awesome_flutter
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "8.4.0"
+=======
+>>>>>>> 11209d551c27ac28b0edd783a238900dabcbe0d4
   matcher:
     dependency: transitive
     description:
