@@ -51,7 +51,6 @@
             </list>
           </value>
         </entry>
-<<<<<<< HEAD
         <entry key="font_awesome_flutter">
           <value>
             <list>
@@ -59,8 +58,6 @@
             </list>
           </value>
         </entry>
-=======
->>>>>>> 11209d551c27ac28b0edd783a238900dabcbe0d4
         <entry key="matcher">
           <value>
             <list>
@@ -167,10 +164,7 @@
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/charcode-1.1.2/lib" />
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/collection-1.14.11/lib" />
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-0.1.2/lib" />
-<<<<<<< HEAD
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/font_awesome_flutter-8.4.0/lib" />
-=======
->>>>>>> 11209d551c27ac28b0edd783a238900dabcbe0d4
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/matcher-0.12.5/lib" />
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/meta-1.1.6/lib" />
       <root url="file://$USER_HOME$/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/path-1.6.2/lib" />

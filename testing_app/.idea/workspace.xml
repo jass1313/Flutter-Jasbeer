@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1de48b4c-f247-469f-80b1-7e3643700be2" name="Default Changelist" comment="" />
+    <list default="true" id="1de48b4c-f247-469f-80b1-7e3643700be2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../bmi-calculator-flutter/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bmi-calculator-flutter/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bmi-calculator-flutter/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bmi-calculator-flutter/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bmi-calculator-flutter/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_app/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_app/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../flutter_app/flutter_app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../flutter_app/flutter_app.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../i_am_rich_app/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../i_am_rich_app/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
     <ignored path="$PROJECT_DIR$/.pub/" />
@@ -17,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+            <state relative-caret-position="558">
+              <caret line="91" column="54" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -47,10 +57,31 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testing_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testing_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testing_app" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="CatdeaLogs" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,6 +138,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Flutter Performance" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Catdea" order="10" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -118,8 +150,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="57" column="3" lean-forward="true" selection-start-line="57" selection-start-column="3" selection-end-line="57" selection-end-column="3" />
+        <state relative-caret-position="558">
+          <caret line="91" column="54" selection-start-line="91" selection-start-column="10" selection-end-line="91" selection-end-column="54" />
         </state>
       </provider>
     </entry>
